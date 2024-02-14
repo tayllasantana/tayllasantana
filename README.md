@@ -33,5 +33,5 @@
 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayllasantana&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
 
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/tayllasantana/tayllasantana/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/IgorHenriqueG/IgorHenriqueG/output/github-contribution-grid-snake-dark.svg">
 </h1>
