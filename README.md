@@ -6,7 +6,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+SA+Beginner&size=30&pause=1&color=09ed19&center=true&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Taylla+Cruz+Santana;systems+development+student)](https://git.io/typing-svg)
   
-### I'm 26 years 
+### I'm 27 years 
 
 
   Known Languages
